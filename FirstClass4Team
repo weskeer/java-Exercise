@@ -1,0 +1,8 @@
+Expected Resulting Code3publicclassFirstClass4Team{
+publicstaticvoidmain(String[] args) {
+System.out.println("這是用來練習GitHub協作的程式!");
+System.out.println("\"學號：\"01057136\"\n姓名：\"蕭家安\"");
+System.out.println("\"學號：\"\"\n姓名：\"\"");
+System.out.println("\"學號：\"\"\n姓名：\"\"");
+}
+}
